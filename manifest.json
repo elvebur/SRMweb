@@ -1,0 +1,7 @@
+{
+  "name": "SRM Chat",
+  "short_name": "SRM Chat",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait"
+}
